@@ -1,3 +1,9 @@
+#rm -rf node_modules
+#rm -rf build
+#git add .
+#git commit -m "mensagem"
+#git push
+
 # Logs
 logs
 *.log
